@@ -6,7 +6,7 @@
     <img src="https://github-profile-trophy.vercel.app/?username=king-julien-007&margin-w=15&no-bg=true&column=4" alt="king-julien-007" />
   </a>
 </div>
-
+<a href="https://gitroll.io/profile/uFlEiuMQkiHbtcaqEH3ZN4wU3n7F3" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uFlEiuMQkiHbtcaqEH3ZN4wU3n7F3?theme=tokyoNight" alt="GitRoll Profile Badge"/></a>
 ---
 
 <h3 align="center">Connect with me:</h3>
